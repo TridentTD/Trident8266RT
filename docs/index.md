@@ -71,7 +71,7 @@
 *[กดที่รูปเพื่อดูวิดีโอแสดงตัวอย่างวิธีตั้งค่า WiFi ]*  
 [![Watch the video](https://i.ytimg.com/vi/5QMnjxBjfh4/0.jpg)](https://youtu.be/5QMnjxBjfh4)  
 
-###<u>หมายเหตุ</u>
+### <u>หมายเหตุ</u>
 * สามารถใช้ `Trident8266RT` ต่อขยายระยะ Internet WiFI ออกไปได้เรื่อยๆ  
   ให้ครอบคลุมพื้นที่ เรือนเกษตร หรือ บริเวณที่ใช้งาน IoT  
 * โดยมีระยะขยาย Internet WiFi ระหว่าง `Trident8266RT` 2 ตัว  
@@ -111,7 +111,7 @@
 *[กดที่รูปเพื่อดูวิดีโอแสดงตัวอย่างวิธีตั้งค่า IP แบบกำหนดเอง]*  
 [![Watch the video](https://i.ytimg.com/vi/O8dyKL4YgYg/0.jpg)](https://youtu.be/O8dyKL4YgYg)  
 
-###<u>ข้อควรระวัง</u>  
+### <u>ข้อควรระวัง</u>  
 * IP Address ของ `Trident8266RT` และ Gateway ต้องมีค่าสอดคล้องกัน  
   ไม่เช่นนั้น `Trident8266RT`จะไม่สามารถเชื่อมต่อ Internet ได้  
 * ตามปกติแล้ว Gateway จะมีค่า IP คือ xxx.xxx.xxx.1  เป็นต้น  
